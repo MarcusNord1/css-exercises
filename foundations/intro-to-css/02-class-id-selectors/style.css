@@ -2,3 +2,16 @@
     background-color:#FF8D8F;
     font-family: "verdana", "DejaVu", sans-serif;
 }
+#blue {
+    color:#0536EA;
+    font-size: 36px;
+}
+.big {
+    font-size: 24px;
+}
+
+#green {
+    background-color:#68F35D;
+    font-size: 24px;
+    font-weight: bold;
+}
